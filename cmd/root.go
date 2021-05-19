@@ -30,7 +30,7 @@ var CmdRoot = &cobra.Command{
                   |__|/ \|__|                                
 
 A simple tool that help you search and download your favorite music,
-please visit https://github.com/winterssy/mxget for more detail.
+please visit https://github.com/hongbook/mxget for more detail.
 `,
 	Version: Version,
 }

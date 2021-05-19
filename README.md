@@ -16,7 +16,7 @@
 ## 下载安装
 
 ```sh
-go get -u github.com/winterssy/mxget
+go get -u github.com/hongbook/mxget
 ```
 
 ## 使用帮助
@@ -32,7 +32,7 @@ go get -u github.com/winterssy/mxget
                   |__|/ \|__|                                
 
 A simple tool that help you search and download your favorite music,
-please visit https://github.com/winterssy/mxget for more detail.
+please visit https://github.com/hongbook/mxget for more detail.
 
 Usage:
   mxget [command]
